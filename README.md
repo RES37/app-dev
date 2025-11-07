@@ -1,7 +1,5 @@
 # My Favorite Movie: Shrek 🐸👑
 
-![Shrek]([https://upload.wikimedia.org/wikipedia/en/3/39/Shrek.jpg](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTG_q0A0cypAsXxYlgs5J_554BrcnjeeKExlQE3ZaZUuPYv0fUd))
-
 ## Why I Like It
 - It’s a hilarious and heartwarming story about **acceptance** and **friendship**.  
 - The humor works for both kids and adults.  

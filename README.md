@@ -1,4 +1,4 @@
-# My Favorite Movie: Shrek 🐸👑
+# My Favorite Movie: Shrek 🐸
 
 ## Why I Like It
 - It’s a hilarious and heartwarming story about **acceptance** and **friendship**.  
